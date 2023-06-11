@@ -1,4 +1,4 @@
-def get_todos(filepath='todos.txt'):
+def get_todos(filepath='C:\\Users\\USER\\Desktop\\pythonProject\\todos.txt'):
     """
     Retrieves a list of todos from a file.
 
@@ -14,7 +14,7 @@ def get_todos(filepath='todos.txt'):
     return todos_local
 
 
-def write_todos(todos_args, filepath='todos.txt'):
+def write_todos(todos_args, filepath='C:\\Users\\USER\\Desktop\\pythonProject\\todos.txt'):
     """
     Writes a list of todos to a file.
 
