@@ -27,6 +27,7 @@ This is a basic TODO app using the command line
 
 I transformed Project 1 form CLI to become a simple web app
 
+![Screenshot 2023-06-12 183810](https://github.com/hadysoufan/Python-Projects/assets/110059893/1768dedb-1220-4b64-88d2-262d977bb074)
 
 ## Project 2: PDF Template Generator 📂
 
