@@ -20,10 +20,15 @@ Packages used:
 
 ## Project 1: TODO app using CLI 🦾
 
+
 This is a basic TODO app using the command line
+
+![image](https://github.com/hadysoufan/Python-Projects/assets/110059893/7cf6a524-f81b-49ff-bb03-a3de3b0b30fd)
+
 
 
 ## Project 2: TODO Web Page 💻
+
 
 I transformed Project 1 form CLI to become a simple web app
 
@@ -31,6 +36,10 @@ I transformed Project 1 form CLI to become a simple web app
 
 ## Project 2: PDF Template Generator 📂
 
+
 Generating pdfs from .csv files
+
+![image](https://github.com/hadysoufan/Python-Projects/assets/110059893/8cc97975-42ee-4fd1-93be-a1da3ccba80d)
+
 
 
