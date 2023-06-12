@@ -60,7 +60,8 @@ I transformed Project 1 form CLI to become a simple web app
 Generating pdfs from .csv files - Takes data from a CSV file containing topics and their corresponding page numbers, and creates a PDF document where each topic is displayed on a separate page with a footer.
 
 
-![image](https://github.com/hadysoufan/Python-Projects/assets/110059893/8cc97975-42ee-4fd1-93be-a1da3ccba80d)
+
+![Media1 (1)](https://github.com/hadysoufan/Python-Projects/assets/110059893/83f788a4-03be-440a-a11f-8e296fb90bea)
 
 
 
