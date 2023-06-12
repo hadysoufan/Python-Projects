@@ -21,9 +21,7 @@ Packages used:
 ## Project 1: TODO app using CLI 🦾
 
 
-This is a basic TODO app using the command line
-
- A simple TODO list application.
+ A simple TODO list application in CLI.
     Allows the user to view, add, edit, and remove TODO items.
 
     Commands:
@@ -42,7 +40,7 @@ This is a basic TODO app using the command line
 
 I transformed Project 1 form CLI to become a simple web app
 
- A simple TODO list application.
+ A simple TODO list web application.
     Allows the user to view, add, edit, and remove TODO items.
 
     Commands:
@@ -57,7 +55,8 @@ I transformed Project 1 form CLI to become a simple web app
 ## Project 2: PDF Template Generator 📂
 
 
-Generating pdfs from .csv files
+Generating pdfs from .csv files - Takes data from a CSV file containing topics and their corresponding page numbers, and creates a PDF document where each topic is displayed on a separate page with a footer.
+
 
 ![image](https://github.com/hadysoufan/Python-Projects/assets/110059893/8cc97975-42ee-4fd1-93be-a1da3ccba80d)
 
