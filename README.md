@@ -23,6 +23,16 @@ Packages used:
 
 This is a basic TODO app using the command line
 
+ A simple TODO list application.
+    Allows the user to view, add, edit, and remove TODO items.
+
+    Commands:
+    - show: Display all TODO items.
+    - add: Add a new TODO item.
+    - edit: Edit an existing TODO item.
+    - remove: Remove a TODO item.
+    - exit: Exit the application.
+
 ![image](https://github.com/hadysoufan/Python-Projects/assets/110059893/7cf6a524-f81b-49ff-bb03-a3de3b0b30fd)
 
 
@@ -31,6 +41,16 @@ This is a basic TODO app using the command line
 
 
 I transformed Project 1 form CLI to become a simple web app
+
+ A simple TODO list application.
+    Allows the user to view, add, edit, and remove TODO items.
+
+    Commands:
+    - show: Display all TODO items.
+    - add: Add a new TODO item.
+    - edit: Edit an existing TODO item.
+    - remove: Remove a TODO item.
+    - exit: Exit the application.
 
 ![Screenshot 2023-06-12 183810](https://github.com/hadysoufan/Python-Projects/assets/110059893/1768dedb-1220-4b64-88d2-262d977bb074)
 
